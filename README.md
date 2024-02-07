@@ -82,6 +82,8 @@
         <img src="https://github.com/AllenWn/AllenWn/blob/main/image/sw.png" alt="SolidWorks" width="40" height="40" />  
         <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>SolidWorks</b></span> 
 <br>
+<br>
+<br>
 
 #### ⚡ Current Interests ⚡
 
