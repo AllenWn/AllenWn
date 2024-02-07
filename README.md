@@ -33,7 +33,7 @@
 
 <div align="center">
 <br>
-#### Programming Languages and Tools
+<h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Programming Languages and Tools</b></h3>
 <br>
 - Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> | Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> | PHP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /> | C++ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
 <br>
