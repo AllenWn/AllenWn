@@ -11,7 +11,6 @@
 <img src="https://github.com/AllenWn/AllenWn/blob/main/circular_avatar.png" width="400" height="400" />
 <br>
 <br>
-<br>
 <p><b>I'm a passionate college student from the University of Illinois at Urbana-Champaign, majoring in Astrophysics and hailing from China. I'm deeply fascinated by the mysteries of the universe and the beauty of the stars.</b></p>
 
 </div>
