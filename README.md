@@ -45,7 +45,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
         <span style="font-size: 20px; font-family: Arial, sans-serif; color: #00599C;"><b>C++</b></span>
     </p><br>
-<br>
+
 <h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Frontend Development: </b></h3>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> 
         <span style="font-size: 20px; font-family: Arial, sans-serif; color: #007396;"><b>HTML</b></span>
