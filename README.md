@@ -4,19 +4,28 @@
 
 ### Hi there 👋 This is Allen! ✨
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zhanglina94)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lina-zhang-58440b101/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhanglina249@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AllenWn)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/宁-魏-94a028286/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:allenwei0503@gmail.com)
 
 <img src="https://github.com/AllenWn/AllenWn/blob/main/circular_avatar.png" width="400" height="400" />
 
-I'm a college student at the University of Illinois at Urbana-Champaign, majoring in Astrophysics, originally from China.
+<p><b>I'm a passionate college student from the University of Illinois at Urbana-Champaign, majoring in Astrophysics and hailing from China. I'm deeply fascinated by the mysteries of the universe and the beauty of the stars.</b></p>
 
-![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenWn&show_icons=true&theme=radical)
+</div>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=AllenWn&show_icons=true&theme=radical" />
+
+### 🌟 Language Usage
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenWn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AllenWn" />
 
 #### Programming Languages and Tools
 
@@ -33,5 +42,9 @@ I'm a college student at the University of Illinois at Urbana-Champaign, majorin
 - Stable Diffusion
 - Moon Valley
 - Runway Gen2
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=AllenWn" />
 
 </div>
