@@ -50,7 +50,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> 
         <span style="font-size: 20px; font-family: Arial, sans-serif; color: #007396;"><b>HTML</b></span>
 <br>
-<br>
 <h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Mobile App Development: </b></h3>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" /> 
         <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Android</b></span> | 
@@ -59,11 +58,29 @@
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width= "40" height = "40" /> 
         <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Dart</b></span>
 <br>
+<h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Database:</b></h3>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />  
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>MySQL</b></span>
 <br>
-- Database: MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-<br>
-<br>
-- Software Tools: Dreamweaver <img src="https://github.com/AllenWn/AllenWn/blob/main/image/dw.png" alt="Dreamweaver" width="40" height="40" />, Pycharm <img src="https://github.com/AllenWn/AllenWn/blob/main/image/pycharm.png" alt="Pycharm" width="40" height="40" />, Goland <img src="https://github.com/AllenWn/AllenWn/blob/main/image/goland.png" alt="Goland" width="40" height="40" />, XCode <img src="https://github.com/AllenWn/AllenWn/blob/main/image/xcode.png" alt="XCode" width="40" height="40" />, Visual Studio <img src="https://github.com/AllenWn/AllenWn/blob/main/image/visual%20studio.png" alt="Visual Studio" width="40" height="40" />, Android Studio <img src="https://github.com/AllenWn/AllenWn/blob/main/image/android%20studio.png" alt="Android Studio" width="40" height="40" />, Blender <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" />, Unigraphics <img src="https://github.com/AllenWn/AllenWn/blob/main/image/nx.png" alt="Unigraphics" width="40" height="40" />, SolidWorks <img src="https://github.com/AllenWn/AllenWn/blob/main/image/sw.png" alt="SolidWorks" width="40" height="40" />, 
+<h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Software Tools: </b></h3>
+        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/dw.png" alt="Dreamweaver" width="40" height="40" />  
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Dreamweaver</b></span> |
+        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/pycharm.png" alt="Pycharm" width="40" height="40" />  
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Pycharm</b></span> |
+        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/goland.png" alt="Goland" width="40" height="40" /> 
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Goland</b></span> |
+        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/xcode.png" alt="XCode" width="40" height="40" />  
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>XCode</b></span> |
+        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/visual%20studio.png" alt="Visual Studio" width="40" height="40" />  
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Visual Studio</b></span> |
+        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/android%20studio.png" alt="Android Studio" width="40" height="40" /> 
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Android Studio</b></span> |
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" /> 
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Blender</b></span> |
+        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/nx.png" alt="Unigraphics" width="40" height="40" /> 
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Unigraphics</b></span> |
+        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/sw.png" alt="SolidWorks" width="40" height="40" />  
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>SolidWorks</b></span> 
 <br>
 
 #### ⚡ Current Interests ⚡
