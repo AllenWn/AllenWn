@@ -6,10 +6,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](zhanglina249@gmail.com)
  
  
-<img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
- 
 ![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenWn&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenWn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
