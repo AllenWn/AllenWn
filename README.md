@@ -28,13 +28,19 @@
 </div>
 
 <div align="center">
+<br>
 #### Programming Languages and Tools
-
+<br>
 - Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20" /> | Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" /> | PHP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" height="20" /> | C++ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20" />
+  <br>
 - Frontend Development: HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20" />
+  <br>
 - Mobile App Development: Android <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="20" height="20" />, Flutter <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="20" height="20" />, Dart <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="20" height="20" />
+  <br>
 - Database: MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20" />
+  <br>
 - Software Tools: Dreamweaver <img src="https://github.com/AllenWn/AllenWn/blob/main/image/dw.png" alt="Dreamweaver" width="20" height="20" />, Pycharm <img src="https://github.com/AllenWn/AllenWn/blob/main/image/pycharm.png" alt="Pycharm" width="20" height="20" />, Goland <img src="https://github.com/AllenWn/AllenWn/blob/main/image/goland.png" alt="Goland" width="20" height="20" />, XCode <img src="https://github.com/AllenWn/AllenWn/blob/main/image/xcode.png" alt="XCode" width="20" height="20" />, Visual Studio <img src="https://github.com/AllenWn/AllenWn/blob/main/image/visual%20studio.png" alt="Visual Studio" width="20" height="20" />, Android Studio <img src="https://github.com/AllenWn/AllenWn/blob/main/image/android%20studio.png" alt="Android Studio" width="20" height="20" />, Blender <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="20" height="20" />, Unigraphics <img src="https://github.com/AllenWn/AllenWn/blob/main/image/nx.png" alt="Unigraphics" width="20" height="20" />, SolidWorks <img src="https://github.com/AllenWn/AllenWn/blob/main/image/sw.png" alt="SolidWorks" width="20" height="20" />, 
+<br>
 
 #### ⚡ Current Interests ⚡
 
@@ -43,6 +49,7 @@
 - Stable Diffusion
 - Moon Valley
 - Runway Gen2
+<br>
 
 ### 🏆 GitHub Trophies
 
