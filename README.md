@@ -46,10 +46,18 @@
         <span style="font-size: 20px; font-family: Arial, sans-serif; color: #00599C;"><b>C++</b></span>
     </p><br>
 <br>
-- Frontend Development: HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+<h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Frontend Development: </b></h3>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> 
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #007396;"><b>HTML</b></span>
 <br>
 <br>
-- Mobile App Development: Android <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />, Flutter <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />, Dart <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width= "40" height = "40" />
+<h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Mobile App Development: </b></h3>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" /> 
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Android</b></span> | 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /> 
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Flutter</b></span> |
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width= "40" height = "40" /> 
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Dart</b></span>
 <br>
 <br>
 - Database: MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
