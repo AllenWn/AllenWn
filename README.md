@@ -8,16 +8,15 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lina-zhang-58440b101/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhanglina249@gmail.com)
 
-<img src="https://github.com/AllenWn/AllenWn/blob/main/circular_avatar.png" width="60" height="60" />
+<img src="https://github.com/AllenWn/AllenWn/blob/main/circular_avatar.png" width="400" height="400" />
 
 I'm a college student at the University of Illinois at Urbana-Champaign, majoring in Astrophysics, originally from China.
 
 ![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenWn&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenWn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" />
+<img src="https://github-profile-trophy.vercel.app/?username=AllenWn" />
 
 #### Programming Languages and Tools
 
