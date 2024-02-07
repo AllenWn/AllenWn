@@ -21,6 +21,9 @@
 
 ![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenWn&show_icons=true&theme=tokyonight)
 
+### 🔥 GitHub streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AllenWn" /> 
+
 
 ### 🌟 Language Usage
 
