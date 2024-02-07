@@ -74,7 +74,7 @@
         <img src="https://github.com/AllenWn/AllenWn/blob/main/image/visual%20studio.png" alt="Visual Studio" width="40" height="40" />  
         <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Visual Studio</b></span> |
         <img src="https://github.com/AllenWn/AllenWn/blob/main/image/android%20studio.png" alt="Android Studio" width="40" height="40" /> 
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Android Studio</b></span> |
+        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Android Studio</b></span> | <br>
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" /> 
         <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Blender</b></span> |
         <img src="https://github.com/AllenWn/AllenWn/blob/main/image/nx.png" alt="Unigraphics" width="40" height="40" /> 
