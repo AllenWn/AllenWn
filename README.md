@@ -63,7 +63,7 @@
         <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>MySQL</b></span>
 <br>
 <h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Software Tools: </b></h3>
-        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/dw.png" alt="Dreamweaver" width="40" height="40" />  
+        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/dw.png" alt="Dreamweaver" width="38" height="38" />  
         <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Dreamweaver</b></span> |
         <img src="https://github.com/AllenWn/AllenWn/blob/main/image/pycharm.png" alt="Pycharm" width="40" height="40" />  
         <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Pycharm</b></span> |
