@@ -11,7 +11,7 @@
 <img src="https://github.com/AllenWn/AllenWn/blob/main/image/profile.png" width="400" height="400" />
 <br>
 <br>
-<p><b>I'm a passionate college student from the University of Illinois at Urbana-Champaign, majoring in Astrophysics and hailing from China. I'm deeply fascinated by the mysteries of the universe and the beauty of the stars.</b></p>
+<p><b>I'm a sophomore student from University of Illinois at Urbana-Champaign, Grainger college of engineering, majoring in Computer Engineering and hailing from China. </b></p>
 
 </div>
 
