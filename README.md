@@ -87,9 +87,6 @@
 <br>
 
 #### ⚡ Current Interests ⚡
-
-- Chat GPT 4.0
-- Hugging Face
 - Stable Diffusion
 - Moon Valley
 - Runway Gen2
