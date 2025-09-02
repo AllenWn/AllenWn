@@ -2,7 +2,7 @@
 
 # < Howdy, world! />
 
-### Hi there 👋 This is Allen! ✨
+### Hi there 👋 This is Allen! 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AllenWn)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/宁-魏-94a028286/)
@@ -11,7 +11,7 @@
 <img src="https://github.com/AllenWn/AllenWn/blob/main/image/profile.png" width="400" height="400" />
 <br>
 <br>
-<p><b>I'm a sophomore student from University of Illinois at Urbana-Champaign, Grainger college of engineering, majoring in Computer Engineering and hailing from China. </b></p>
+<p><b>I'm a Junior student from University of Illinois at Urbana-Champaign, Grainger college of engineering, majoring in Computer Engineering and hailing from China. </b></p>
 
 </div>
 
