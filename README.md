@@ -86,9 +86,7 @@ MySQL · React · Flutter · MATLAB · SolidWorks · Siemens NX
 
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AllenWn&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
-  </a>
+  <img src="https://trophy.ryglcloud.net/?username=AllenWn&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
 </p>
 
 
