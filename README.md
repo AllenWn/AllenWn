@@ -9,7 +9,7 @@
   <a href="https://github.com/AllenWn">
     <img src="https://img.shields.io/badge/GitHub-AllenWn-181717?style=flat&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/宁-魏-94a028286/">
+  <a href="https://www.linkedin.com/in/ning-wei-allen0503/">
     <img src="https://img.shields.io/badge/LinkedIn-Allen%20Wei-0A66C2?style=flat&logo=linkedin"/>
   </a>
   <a href="mailto:allenwei0503@gmail.com">
