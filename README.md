@@ -1,99 +1,106 @@
-<div align="center">
+<h1 align="center">Hi, I'm Allen Wei 👋</h1>
 
-# < Howdy, world! />
+<p align="center">
+  <b>Computer Engineering @ UIUC Grainger</b><br/>
+  AI Systems · Machine Learning · Large Models · Distributed & Low-level Systems
+</p>
 
-### Hi there 👋 This is Allen! 
+<p align="center">
+  <a href="https://github.com/AllenWn">
+    <img src="https://img.shields.io/badge/GitHub-AllenWn-181717?style=flat&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/宁-魏-94a028286/">
+    <img src="https://img.shields.io/badge/LinkedIn-Allen%20Wei-0A66C2?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:allenwei0503@gmail.com">
+    <img src="https://img.shields.io/badge/Email-allenwei0503@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AllenWn)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/宁-魏-94a028286/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:allenwei0503@gmail.com)
+---
 
-<img src="https://github.com/AllenWn/AllenWn/blob/main/image/profile.png" width="400" height="400" />
-<br>
-<br>
-<p><b>I'm a Junior student from University of Illinois at Urbana-Champaign, Grainger college of engineering, majoring in Computer Engineering and hailing from China. </b></p>
+## 🚀 About Me
 
-</div>
+I am a junior undergraduate student majoring in **Computer Engineering** at the **University of Illinois Urbana-Champaign (UIUC), Grainger College of Engineering**.
+
+My interests lie at the intersection of:
+
+- **Artificial Intelligence & Machine Learning (LLMs, multimodal models, reasoning, alignment)**
+- **AI systems & engineering (training pipelines, inference optimization, data-centric AI)**
+- **Systems & low-level foundations (OS, distributed systems, compilers, hardware/software co-design)**
+
+I am actively involved in **research-oriented projects, large-scale AI pipelines, and system-level development**, and I am preparing for future **research internships and graduate study**.
+
+---
+
+## 🧠 Current Focus
+
+- Large Language Models (post-training, reasoning, data construction, evaluation)
+- Multimodal AI (vision-language, math visualization, code-driven rendering)
+- AI engineering (training workflow, inference systems, automation)
+- Systems foundations (OS, distributed systems, computer architecture)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+Python · C/C++ · Java · RISC-V Assembly · SystemVerilog · SQL
+
+**AI / ML**  
+PyTorch · HuggingFace · FastAPI · Model training & evaluation pipelines
+
+**Systems / Engineering**  
+Linux · Git · Docker · FPGA (Vivado/Vitis) · Distributed systems · OS design
+
+**Other**  
+MySQL · React · Flutter · MATLAB · SolidWorks · Siemens NX
+
+---
+
+## 📌 Selected Projects & Work
+
+- 🤖 **Large-model post-training & multimodal math reasoning system**
+- 📊 **AI-driven quantitative research & data pipeline system**
+- 🧬 **Cell-level fluorescence colocalization & biomedical imaging pipeline**
+- 🖥️ **Operating system & FPGA system-level projects (UIUC ECE/CS curriculum)**
+
+*(I will gradually open-source and organize more of these here.)*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AllenWn&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenWn&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AllenWn&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
 
 
-<div align="center">
-
-### 📊 GitHub Stats
-
-![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenWn&show_icons=true&theme=tokyonight)
-
-### 🔥 GitHub streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AllenWn" /> 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AllenWn&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
+  </a>
+</p>
 
 
-### 🌟 Language Usage
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenWn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📬 Contact
 
-</div>
+- 📧 Email: **allenwei0503@gmail.com**
+- 💼 LinkedIn: [Allen Wei](https://www.linkedin.com/in/ning-wei-allen0503/)
 
-<div align="center">
-<br>
-<h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Programming Languages and Tools</b></h3>
-<br>
-<p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #007396;"><b>Java</b></span> |
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #3776AB;"><b>Python</b></span> |
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>PHP</b></span> |
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #00599C;"><b>C++</b></span>
-    </p><br>
+---
 
-<h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Frontend Development: </b></h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> 
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #007396;"><b>HTML</b></span>
-<br>
-<h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Mobile App Development: </b></h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" /> 
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Android</b></span> | 
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /> 
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Flutter</b></span> |
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width= "40" height = "40" /> 
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Dart</b></span>
-<br>
-<h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Database:</b></h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />  
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>MySQL</b></span>
-<br>
-<h3 style="font-size: 22px; font-family: Arial, sans-serif; color: #3467eb;"><b>Software Tools: </b></h3>
-        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/dw.png" alt="Dreamweaver" width="38" height="38" />  
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Dreamweaver</b></span> |
-        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/pycharm.png" alt="Pycharm" width="40" height="40" />  
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Pycharm</b></span> |
-        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/goland.png" alt="Goland" width="40" height="40" /> 
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Goland</b></span> |
-        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/xcode.png" alt="XCode" width="40" height="40" />  
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>XCode</b></span> |
-        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/visual%20studio.png" alt="Visual Studio" width="40" height="40" />  
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Visual Studio</b></span> |
-        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/android%20studio.png" alt="Android Studio" width="40" height="40" /> 
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Android Studio</b></span> | <br>
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="45" height="45" /> 
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Blender</b></span> |
-        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/nx.png" alt="Unigraphics" width="40" height="40" /> 
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>Unigraphics</b></span> |
-        <img src="https://github.com/AllenWn/AllenWn/blob/main/image/sw.png" alt="SolidWorks" width="40" height="40" />  
-        <span style="font-size: 20px; font-family: Arial, sans-serif; color: #787CB5;"><b>SolidWorks</b></span> 
-<br>
-<br>
-<br>
-
-#### ⚡ Current Interests ⚡
-- Stable Diffusion
-- Moon Valley
-- Runway Gen2
-<br>
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=AllenWn" />
-
-</div>
+<p align="center">
+  <i>“Build systems that scale. Train models that reason.”</i>
+</p>
